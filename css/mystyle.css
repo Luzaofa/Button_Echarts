@@ -1,0 +1,10 @@
+.newLine {
+    position: relative;
+    left: 25%;
+}
+
+.drawLine {
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
